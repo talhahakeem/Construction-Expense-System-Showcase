@@ -19,6 +19,6 @@ A professional construction financial tracking and expense management solution d
 - QuestPDF
 
 ## Preview
-Project screenshots are included below.
+Project screenshots are included in this repository.
 
 > Full source code is maintained in a private repository.
