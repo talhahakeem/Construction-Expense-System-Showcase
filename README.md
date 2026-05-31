@@ -1,4 +1,4 @@
-# Construction Expense Management System    
+# Construction Expense Management System     
 
 A professional construction financial tracking and expense management solution designed for construction owners and site managers.
 
